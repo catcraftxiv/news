@@ -5,7 +5,7 @@ date:   2024-05-16 23:47:11 +0300
 thumbnail: earth.jpg
 ---
 
-Short dress with little knit vest to keep you warm at spring evenings! :> Thank you all very much for your support^^
+Short dress with little knit vest to keep you warm at spring evenings! :> The dress does contain 4 texture versions: smooth cloth, alternative cloth, leather and velvet! You can dye vest searately through advcanced dye in glamourer! Thank you all very much for your support^^
 
 > ## Capicola leberkas fatback, kielbasa strip steak.
 
