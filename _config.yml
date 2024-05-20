@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Creating FFXIV mods :> All content 
   in shop or sub is custom created by us!
   Join our discord, i will be happy! <3
-baseurl: "/papers" # the subpath of your site, e.g. /blog
-url: "https://catcraftxiv.github.io/papers/" # the base hostname & protocol for your site
+baseurl: "/web" # the subpath of your site, e.g. /blog
+url: "https://catcraftxiv.github.io/web/" # the base hostname & protocol for your site
 github_username:    
 instagram_username: 
 twitter_username:   catcraftxiv
