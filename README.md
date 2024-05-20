@@ -1,3 +1,12 @@
+# testing
+
+jekyll serve --drafts
+
+# useful stuff
+
+svg icons at https://www.svgrepo.com/svg/440914/ffxivmeteo
+edit svg icons at https://deeditor.com/
+
 # Libretto - Jekyll Theme
 
 Libretto is a responsive one-column Jekyll theme with classic styling and careful typographic details.

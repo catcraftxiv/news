@@ -2,13 +2,13 @@
 
 	<div class="wrapper">
 
-		<h2 class="footer-heading">{{ site.title }} • <a href="{{ site.baseurl }}/table-of-contents">Table of Contents</a></h2>
+		<h2 class="footer-heading"><a href="{{ site.baseurl }}/">{{ site.title }}</a> • <a href="{{ site.baseurl }}/table-of-contents">Table of Contents</a> • <a href="{{ site.baseurl }}/news">News</a></h2>
 
 		<div class="footer-col-wrapper">
 			<div class="footer-col footer-col-1">
 				<ul class="contact-list">
 					<li>{{ site.title }}</li>
-					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					<li>{{ site.email }}</li>
 				</ul>
 			</div>
 
@@ -26,9 +26,33 @@
 					</li>
 					{% endif %}
 
+					{% if site.xma_username %}
+					<li>
+						{% include icon-xma.html username=site.xma_username %}
+					</li>
+					{% endif %}
+
+					{% if site.tgd_username %}
+					<li>
+						{% include icon-tgd.html username=site.tgd_username %}
+					</li>
+					{% endif %}
+
+					{% if site.patreon_username %}
+					<li>
+						{% include icon-patreon.html username=site.patreon_username %}
+					</li>
+					{% endif %}
+
 					{% if site.twitter_username %}
 					<li>
 						{% include icon-twitter.html username=site.twitter_username %}
+					</li>
+					{% endif %}
+
+					{% if site.discord_username %}
+					<li>
+						{% include icon-discord.html username=site.discord_username %}
 					</li>
 					{% endif %}
 				</ul>
