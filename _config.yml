@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Catcraft!
-email: your-email@domain.com
+email: by pillow and Evie
 description: > # this means to ignore newlines until "baseurl:"
   Creating FFXIV mods :> All content 
   in shop or sub is custom created by us!
