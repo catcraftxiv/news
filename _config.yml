@@ -24,6 +24,7 @@ url: "https://catcraftxiv.github.io/papers/" # the base hostname & protocol for 
 github_username:    
 instagram_username: 
 twitter_username:   catcraftxiv
+patreon_username:   catcraftFFXIV
 
 # Build settings
 markdown: kramdown
