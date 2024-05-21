@@ -102,3 +102,15 @@
   name: idisxiv
   isBigImage: true
   profile: https://x.com/idisxiv
+
+- link: https://i.postimg.cc/T3ZPXkRn/ffxiv-dx11-2023-07-26-16-01-14.jpg
+  name: catcraftxiv
+  isBigImage:
+  profile: https://twitter.com/catcraftxiv/
+
+- link: https://i.postimg.cc/fbmRWxLp/ffxiv-dx11-2023-07-26-15-58-03.jpg
+  name: catcraftxiv
+  isBigImage:
+  profile: https://twitter.com/catcraftxiv/
+
+  
