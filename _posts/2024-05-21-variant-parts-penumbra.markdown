@@ -13,7 +13,7 @@ Step by step guide ho to toggle variant parts through Penumbra :> By doing so yo
 To open toggle menu, open mod in penumbra window, then click on "Advanced Editing" tab and go to "Meta manipulatons" tab in new opened window! 
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic1.jpg" style="width:100%">
+    <img class="img-modal" src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic1.jpg" style="width:100%" alt="advanced editing tab">
   	<figcaption>
 		there!
 	</figcaption>
@@ -23,7 +23,7 @@ There you should see a window like on screenshot below! We need "Variant Edits (
 That means, that currently selected option at top right corner does **not** have anything edited, but yellow text says, that other options do have! 
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic2.jpg" style="width:100%">
+    <img class="img-modal" src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic2.jpg" style="width:100%" alt="variant part edits stored in each dropdown list option separately">
   	<figcaption>
 		that text tell you everything you need to know
 	</figcaption>
@@ -35,7 +35,7 @@ list at the top right corner, where it now says "Default Option". Usually, it wi
 After selecting option that does have variant part edited, you will see a number appear before at "Variant Edits (IMC)" section, that means there it is! Now, open that section and use checkboxes at the right :>
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic3.jpg" style="width:100%">
+    <img class="img-modal" src="{{ site.baseurl }}/assets/img/posts/variant-parts-penumbra/pic3.jpg" style="width:100%" alt='if there are multiple rows, check "item id" in penumbra widonw!'>
   	<figcaption>
 		if you see more than one row check item ID 
 	</figcaption>
