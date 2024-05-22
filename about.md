@@ -4,17 +4,17 @@ title: About
 permalink: /about
 ---
 
-Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please do write **pillow** at discord :>
+Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please do write **pillow39** at discord :>
 
 **All** of patreon rewards and shop items is custom made! Every port/mashup is **free**! There also a lot of free custom stuff too, im happy to see you use items made by us c:
 
 - [XIV mod archive]
 - [The glamour dresser]
-- [Patreon]
+- [Patreon] - sub and shop
 - [Twitter]
-- [pillow boosty]
-- [pillow hipolink]
-- [Evie boosty]
+- [pillow boosty] - sub
+- [pillow hipolink] - shop
+- [Evie boosty] - 2D
 - [Evie hipolink]
 - [Ko-fi]
 - [Website]
@@ -22,7 +22,7 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 
 Boosty (sub) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! Check it out to be sure though :>
 
-[See mod rules here!]({% post_url 2024-05-20-mod-rules %})
+[See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules %})
 
 
 [XIV Mod Archive]: (https://www.xivmodarchive.com/user/111283)
