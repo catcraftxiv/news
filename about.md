@@ -22,7 +22,7 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 
 Boosty (sub) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! Check it out to be sure though :>
 
-[See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules %})
+[See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules.markdown %})
 
 
 [XIV Mod Archive]: (https://www.xivmodarchive.com/user/111283)
