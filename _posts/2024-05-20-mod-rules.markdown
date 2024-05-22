@@ -21,4 +21,6 @@ I can't include every single case into cool-looking list, so please if you not s
 
 Feel free to use #modding-help channel on our [discord] :> I will be glad to help you with anything i know!
 
+[About Catcraft]({{ site.baseurl }}/about)
+
 [Discord]: (https://discord.gg/yPbUXazxQ3)
