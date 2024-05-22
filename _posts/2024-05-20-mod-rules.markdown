@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Mod Rules"
+date:   2024-05-20 05:52:42 +0300
+---
+
+Rules is very simple :> in short, feel free to edit **free** (which you can download for free without sub or payment) stuff for personal use or post it for **free** and do **not** sell our work and edits of it please!
+
+I can't include every single case into cool-looking list, so please if you not sure use common sense or just ask me at discord :>
+
+## if you making something for personal use:
+- edit any mod for personal use as you wish
+
+## if you about to post your edit *anywhere*:
+
+- any edits of **free** releases is okay as long as **your mod free**
+- **link** original mod
+- do not use our stuff for your **paid** mods
+- do not use our **paid** (including sub) stuff for your mods
+- do not port in other games
+
+Feel free to use #modding-help channel on our [discord] :> Im glad to help you with anything i know!
+
+[Discord]: (https://discord.gg/yPbUXazxQ3)
