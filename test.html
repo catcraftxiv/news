@@ -22,7 +22,6 @@ layout: info
       line-height: 1.9em;
       overflow: hidden;
       padding-right: 9px;
-      color: #af9b80;
 
       @media (max-width: 575.98px) {
         /* used on bootstrap size 'xs' */
@@ -254,7 +253,21 @@ layout: info
     display: flex;
     justify-content: center;
   }
+
+  article {
+    background: #ffedd6;
+    box-shadow: unset;
+    padding: 3em 3em 1em;
+    outline: dashed 2px;
+    outline-offset: -20px;
+    outline-color: #cbb1a6;
+    width: fit-content;
+    margin: auto;
+    justify-content: center;
+  }
 </style>
+
+
 
 <!-- random tweets -->
 <script type="text/javascript">
@@ -266,116 +279,123 @@ layout: info
 
 </script>
 
-
-<div class="wrapper">
-  <div class="home">
-
-    <div class="CatcraftIcon"><img id="avatar" src="{{ site.baseurl }}/assets/img/avatar.jpg"></div>
+<article>
+  <div class="wrapper">
+    <div class="home">
 
 
-    <header class="catcraft-title">
+      <div class="CatcraftIcon"><img id="avatar" src="{{ site.baseurl }}/assets/img/avatar.jpg"></div>
 
-      <h1>
-        <p style="font-size: clamp(2rem, 4rem, 7rem); color: #746858;">Catcraft!</p>
-      </h1>
 
-      <div style="font-size: 1.5rem; color: #9d9284; font-style: normal;">
-        FFXIV mods
-      </div>
+      <header class="catcraft-title">
+
+        <h1>
+          <p style="font-size: clamp(2rem, 4rem, 7rem); color: #746858;">Catcraft!</p>
+        </h1>
+
+        <div style="font-size: 1.5rem; color: #9d9284; font-style: normal;">
+          FFXIV mods
+        </div>
+    </div>
   </div>
-</div>
-
-<div class="row-links">
-  <div class="inline-link"><a href="https://www.xivmodarchive.com/user/111283"><span class="d-inline d-sm-none">XIV Mod
-        Archive</span></a></div>
-  <div class="inline-link"><a href="https://www.glamourdresser.com/author/catcraft"><span class="d-inline d-sm-none">The
-        Glamour Dresser</span></a></div>
-  <div class="inline-link"><a href="https://www.patreon.com/catcraftFFXIV"><span
-        class="d-inline d-sm-none">Patreon</span></a></div>
-  <div class="inline-link"><a href="https://boosty.to/miaumori"><span class="d-inline d-sm-none">Boosty</span></a></div>
-  <div class="inline-link"><a href="https://hipolink.me/pomigrein"><span class="d-inline d-sm-none">Hipolink</span></a>
+  <div class="row-links">
+    <div class="inline-link"><a href="https://www.xivmodarchive.com/user/111283"><span class="d-inline d-sm-none">XIV
+          Mod
+          Archive</span></a></div>
+    <div class="inline-link"><a href="https://www.glamourdresser.com/author/catcraft"><span
+          class="d-inline d-sm-none">The
+          Glamour Dresser</span></a></div>
+    <div class="inline-link"><a href="https://www.patreon.com/catcraftFFXIV"><span
+          class="d-inline d-sm-none">Patreon</span></a></div>
+    <div class="inline-link"><a href="https://boosty.to/miaumori"><span class="d-inline d-sm-none">Boosty</span></a>
+    </div>
+    <div class="inline-link"><a href="https://hipolink.me/pomigrein"><span
+          class="d-inline d-sm-none">Hipolink</span></a>
+    </div>
+    <div class="inline-link"><a href="https://www.patreon.com/catcraftffxiv/shop"><span
+          class="d-inline d-sm-none">Shop</span></a></div>
+    <div class="inline-link"><a href="https://discord.gg/yPbUXazxQ3"><span class="d-inline d-sm-none">Discord</span></a>
+    </div>
+    <div class="inline-link"><a href="https://twitter.com/catcraftxiv"><span
+          class="d-inline d-sm-none">Twitter</span></a>
+    </div>
   </div>
-  <div class="inline-link"><a href="https://www.patreon.com/catcraftffxiv/shop"><span
-        class="d-inline d-sm-none">Shop</span></a></div>
-  <div class="inline-link"><a href="https://discord.gg/yPbUXazxQ3"><span class="d-inline d-sm-none">Discord</span></a>
-  </div>
-  <div class="inline-link"><a href="https://twitter.com/catcraftxiv"><span class="d-inline d-sm-none">Twitter</span></a>
-  </div>
-</div>
 
 
 
-<div class="about" style="padding-bottom: 2rem;"><span>feel free to use <a
-      href="https://twitter.com/hashtag/catcraftxiv">#catcraftxiv</a> hashtag on twitter :></span></div>
+  <div class="about" style="padding-bottom: 2rem;"><span>feel free to use <a
+        href="https://twitter.com/hashtag/catcraftxiv">#catcraftxiv</a> hashtag on twitter :></span></div>
 
-<div class="album">
-  <div class="responsive-container-block bg">
-    <script type="text/javascript">
-      var numberOfPosts = 9;
-      var maxRows = 3;
-      var postIndices = Array.from(window.tweetsEmbed.keys());
+  <div class="album">
+    <div class="responsive-container-block bg">
+      <script type="text/javascript">
+        var numberOfPosts = 9;
+        var maxRows = 3;
+        var postIndices = Array.from(window.tweetsEmbed.keys());
 
-      function getTweetHtml(src, author, isBigImage, link) {
-        return `<div class="photoCard">
+        function getTweetHtml(src, author, isBigImage, link) {
+          return `<div class="photoCard">
 								  <img class="img img-modal ${isBigImage ? 'img-big' : ''}" src="${src}" alt="by ${author}">
 								  <div class="photoCardText">
 									<a href="${link}" style="color: black; text-decoration: none;">by ${author}</a>
 								  </div>
 								</div>`;
-      }
-
-      function getNewRandomPostIndex(needSmall) {
-        var i = Math.floor(Math.random() * postIndices.length);
-        var index = postIndices[i]
-        console.log(postIndices, i);
-
-        if (needSmall) {
-          const tweet = getTweetData(index);
-          if (tweet.isBigImage) {
-            return getNewRandomPostIndex(needSmall);
-          }
         }
 
-        postIndices.splice(i, 1);
-        return index;
-      }
+        function getNewRandomPostIndex(needSmall) {
+          var i = Math.floor(Math.random() * postIndices.length);
+          var index = postIndices[i]
+          console.log(postIndices, i);
 
-      function getTweetData(index) {
-        var image = window.tweetsEmbed[index];
-        var author = window.tweetsName[index];
-        var isBigImage = window.tweetsSize[index];
-        var link = window.tweetsProfile[index];
-
-        return { image, author, isBigImage, link };
-      }
-
-      var rowsInColumn = 0;
-
-      for (let column = 0; column < numberOfPosts / maxRows; column++) {
-        document.write('<div class="responsive-container-block img-cont">');
-
-        for (let row = 0; row < maxRows; row++) {
-          const needSmall = rowsInColumn >= maxRows - 1;
-          var randomIndex = getNewRandomPostIndex(needSmall);
-
-          if (rowsInColumn >= maxRows) {
-            rowsInColumn = 0;
+          if (needSmall) {
+            const tweet = getTweetData(index);
+            if (tweet.isBigImage) {
+              return getNewRandomPostIndex(needSmall);
+            }
           }
 
-          const { image, link, isBigImage, author } = getTweetData(randomIndex);
-
-          rowsInColumn += isBigImage ? 2 : 1;
-
-          document.write(getTweetHtml(image, author, isBigImage, link));
-
-          if (isBigImage) {
-            row++;
-          }
+          postIndices.splice(i, 1);
+          return index;
         }
 
-        document.write('</div>');
-      }
-    </script>
+        function getTweetData(index) {
+          var image = window.tweetsEmbed[index];
+          var author = window.tweetsName[index];
+          var isBigImage = window.tweetsSize[index];
+          var link = window.tweetsProfile[index];
+
+          return { image, author, isBigImage, link };
+        }
+
+        var rowsInColumn = 0;
+
+        for (let column = 0; column < numberOfPosts / maxRows; column++) {
+          document.write('<div class="responsive-container-block img-cont">');
+
+          for (let row = 0; row < maxRows; row++) {
+            const needSmall = rowsInColumn >= maxRows - 1;
+            var randomIndex = getNewRandomPostIndex(needSmall);
+
+            if (rowsInColumn >= maxRows) {
+              rowsInColumn = 0;
+            }
+
+            const { image, link, isBigImage, author } = getTweetData(randomIndex);
+
+            rowsInColumn += isBigImage ? 2 : 1;
+
+            document.write(getTweetHtml(image, author, isBigImage, link));
+
+            if (isBigImage) {
+              row++;
+            }
+          }
+
+          document.write('</div>');
+        }
+      </script>
+
+    </div>
   </div>
-</div>
-</div>
+  </div>
+</article>
