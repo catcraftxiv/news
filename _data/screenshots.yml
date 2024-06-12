@@ -117,3 +117,8 @@
   name: catcraftxiv
   isBigImage:
   profile: https://twitter.com/catcraftxiv/
+
+- link: https://pbs.twimg.com/media/GP5BpqGXwAAomwj?format=jpg&name=large
+  name: Ellieffxiv
+  isBigImage: true
+  profile: https://x.com/Ellieffxiv/status/1800949090026652003
