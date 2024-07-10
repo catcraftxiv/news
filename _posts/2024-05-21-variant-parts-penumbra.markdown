@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Toggle Variant Parts through Penumbra"
+title:  "Toggle Variant Parts through Penumbra"
 date:   2024-05-21 06:03:43 +0300
 ---
 
