@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Converting mods for Dawntrail"
+title:  "Converting mods for Dawntrail's test version of Penumbra"
 date:   2024-07-10 12:04 +0300
 ---
 
 With Penumbra test version released yesterday, you can use mods  through it again, but if you will try to import mod that was made before Dawntrail release you might find it all weird and broken, thats cause Penumbra does **not** convert them automatially for Dawntrail <:c But fear not, cause TexTools does! 
 
 All you need to do is import your mod into TexTools, then you can export it back right away and it will work fine in new Penumbra :> I will write how to do that step by step if you had not used TexTools v3 yet!
+
+## Step by Step Guide
+
+This is only convert working mods like gear so test penumbra can use it, it will **not** fix really broken mods like sculpts!
 
 > ### MAKE SURE SET SAFE MODE
 
