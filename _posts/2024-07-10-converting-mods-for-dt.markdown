@@ -27,7 +27,7 @@ Done!
 
 ## Converting your entire Penumbra mod folder
 
-If you are not that much into modding, i recommend you not doing that and just wait until penumbra will be able to do that automatically for you :>
+If you are not that much into modding, i sugest not doing that and just wait until penumbra will be able to do that automatically for you :>
 
 > #### *keep backups just in case*
 
