@@ -231,7 +231,14 @@ a {
     }
 }
 
+details {
+    cursor: pointer;
+    color: $brand-color;
 
+    &:hover {
+        color: darken($brand-color, 5%);
+    }
+}
 
 /**
  * Blockquotes
@@ -330,3 +337,4 @@ pre {
         }
     }
 }
+
