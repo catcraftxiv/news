@@ -54,7 +54,7 @@ To do so fast, open TexTools, make sure it is in says SAFE at the top right, the
 	</figcaption>
 </figure>
 
-Then, install the mod as usual and click transaction button again :> You will see a list of files appears there! Select format by clicking "Transaction Target", a path to save by the button below and then hit COMMIT TRANSACTION. Done!
+Then, install the mod through clicking Mods > Import ModPacks at the top left and then click transaction button again :> You will see a list of files appears there! Select format by clicking "Transaction Target", a path to save by the button below and then hit COMMIT TRANSACTION. Done!
 
 <figure>
     <img class="img-modal" src="{{ site.baseurl }}/assets/img/posts/converting-mods-for-dt/pic7.png" style="width:100%" alt="main window">
