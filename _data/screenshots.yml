@@ -158,7 +158,7 @@
   isBigImage: 
   profile: https://x.com/catcraftxiv/status/1815844745857622374
 
-- link: /web/assets/img/gallery/w-Final-Fantasy-XIV-A-Realm-Reborn-Super-Resolution-2024-07-24-03-48-24-74_c.jng
+- link: /web/assets/img/gallery/w-Final-Fantasy-XIV-A-Realm-Reborn-Super-Resolution-2024-07-24-03-48-24-74_c.jpg
   name: Cynthea
   isBigImage: true
   profile: https://x.com/CyntheaXIV
@@ -192,3 +192,8 @@
   name: Saki
   isBigImage: true
   profile: https://x.com/PhotosmithSaki/status/1817329372371750939
+
+- link: /web/assets/img/gallery/ffxiv_dx11_2024-07-28_12-49-07.jpg
+  name: Evie
+  isBigImage:
+  profile: https://x.com/catcraftxiv
