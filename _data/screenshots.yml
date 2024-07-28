@@ -1,9 +1,9 @@
-- link: {{ site.baseurl }}/web/assets/img/gallery/GMhY9X5WMAAeW1T-orig_c.jpg
+- link: web/assets/img/gallery/GMhY9X5WMAAeW1T-orig_c.jpg
   name: catcraftxiv
   isBigImage: true
   profile: https://twitter.com/catcraftxiv/status/1785812945324196129
 
-- link: {{ site.baseurl }}/web/assets/img/gallery/GMiA_xIagAA7NfX_c.jpg
+- link: /web/assets/img/gallery/GMiA_xIagAA7NfX_c.jpg
   name: milkchanbread
   isBigImage: true
   profile: https://twitter.com/milkchanbread/status/1785819400282771534
