@@ -3,7 +3,7 @@
   isBigImage: true
   profile: https://twitter.com/catcraftxiv/status/1785812945324196129
 
-- link: https://pbs.twimg.com/media/GMiA_xIagAA7NfX?format=jpg&name=large
+- link: {{ site.baseurl }}/web/assets/img/gallery/GMiA_xIagAA7NfX_c.jpg
   name: milkchanbread
   isBigImage: true
   profile: https://twitter.com/milkchanbread/status/1785819400282771534
