@@ -1,4 +1,4 @@
-- link: /assets/img/gallery/GMhY9X5WMAAeW1T-orig_c.jpg
+- link: {{ site.baseurl }}/assets/img/gallery/GMhY9X5WMAAeW1T-orig_c.jpg
   name: catcraftxiv
   isBigImage: true
   profile: https://twitter.com/catcraftxiv/status/1785812945324196129
