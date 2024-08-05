@@ -8,17 +8,18 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 
 **All** of patreon rewards and shop items is custom made! Every port/mashup is **free**! There also a lot of free custom stuff too, im happy to see you use items made by us c:
 
-- [XIV mod archive]
+- [XIV mod archive] — Free mods only
 - [The glamour dresser]
-- [Patreon] - sub and shop
+- [Heliosphere] — Empty profile
+- [Patreon] — Subscription and shop
 - [Twitter]
-- [pillow boosty] - sub
-- [pillow hipolink] - shop
-- [Evie boosty] - 2D
+- [pillow boosty] — Subscription
+- [pillow hipolink] — Shop
+- [Evie boosty] — 2D
 - [Evie hipolink]
 - [Ko-fi]
 - [Website]
-- [Discord]
+- [Discord] — Complete mod list and community
 
 Boosty (sub) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! Check it out to be sure though :>
 
@@ -27,6 +28,7 @@ Boosty (sub) and Hipolink (shop) have same content as Patreon, but less fees for
 
 [XIV Mod Archive]: (https://www.xivmodarchive.com/user/111283)
 [The Glamour Dresser]: (https://www.glamourdresser.com/author/catcraft)
+[Heliosphere]: (https://heliosphere.app/user/y1dtqqh33n5911wd92kkkne6g8)
 [Patreon]: (https://www.patreon.com/catcraftFFXIV)
 [Twitter]: (https://twitter.com/catcraftxiv)
 [pillow boosty]: (https://boosty.to/miaumori)
