@@ -17,11 +17,11 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 - [pillow hipolink] — Shop
 - [Evie boosty] — 2D
 - [Evie hipolink]
-- [Ko-fi]
+- [Ko-fi] — Empty profile
 - [Website]
 - [Discord] — Complete mod list and community
 
-Boosty (sub) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! Check it out to be sure though :>
+Boosty (subsription) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! But check it to be sure before payment!
 
 [See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules.markdown %})
 
