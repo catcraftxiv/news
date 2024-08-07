@@ -197,3 +197,13 @@
   name: Evie
   isBigImage:
   profile: https://x.com/catcraftxiv
+
+- link: /web/assets/img/gallery/2024-08-06_21-17-56-529_Sakis_Night_Equalizer.jpg
+  name: Saki
+  isBigImage: true
+  profile: https://x.com/PhotosmithSaki/status/1820799147341156387
+
+- link: /web/assets/img/gallery/ffxiv_dx11 2024-08-05 19-46-34 Maya_Adorable_Gameplay.jpg
+  name: catcraftxiv
+  isBigImage:
+  profile: https://x.com/catcraftxiv
