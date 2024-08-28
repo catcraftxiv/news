@@ -222,3 +222,8 @@
   name: idisxiv
   isBigImage:
   profile: https://x.com/idisxiv/
+
+- link: /web/assets/img/gallery/ffxiv_dx11_2024-08-27_23-19-41.jpg
+  name: idisxiv
+  isBigImage: true
+  profile: https://x.com/idisxiv/
