@@ -68,10 +68,10 @@
   isBigImage: true
   profile: https://twitter.com/Ellieffxiv/status/1782990617959637318
 
-- link: /web/assets/img/gallery/GNuiN9pWsAAo0kL-orig_c.jpg
-  name: catcraftxiv
-  isBigImage:
-  profile: https://twitter.com/catcraftxiv/status/1791203799895245015
+#- link: /web/assets/img/gallery/GNuiN9pWsAAo0kL-orig_c.jpg
+#  name: catcraftxiv
+#  isBigImage:
+#  profile: https://twitter.com/catcraftxiv/status/1791203799895245015
 
 - link: /web/assets/img/gallery/GNztktBXwAAJMRb-orig_c.jpg
   name: idisxiv
