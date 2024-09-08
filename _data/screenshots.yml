@@ -227,3 +227,8 @@
   name: idisxiv
   isBigImage: true
   profile: https://x.com/idisxiv/
+
+- link: /web/assets/img/gallery/image-46.jpg
+  name: Darvina
+  isBigImage:
+  profile: /web/
