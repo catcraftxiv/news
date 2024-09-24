@@ -232,3 +232,38 @@
   name: Darvina
   isBigImage:
   profile: /web/
+
+- link: /web/assets/img/gallery/2024-09-24_07-46-19-308_Sakis_Night_Equalizer2-Recovered-gigapixel-hq-scale-6_00x.jpg
+  name: Saki
+  isBigImage: true
+  profile: https://x.com/PhotosmithSaki/status/1838363657140654110
+
+- link: /web/assets/img/gallery/ffxiv_dx11 2024-09-24 00-44-37 Maya Adorable Gameplay1.jpgg
+  name: catcraft
+  isBigImage: true
+  profile: https://x.com/catcraftxiv
+
+- link: /web/assets/img/gallery/ffxiv_dx11_2024-09-23_15-56-51.jpg
+  name: Ellie
+  isBigImage: true
+  profile: https://x.com/Ellieffxiv
+
+- link: /web/assets/img/gallery/ffxiv_dx11_2024-09-23_16-18-58.jpg
+  name: Ellie
+  isBigImage: true
+  profile: https://x.com/Ellieffxiv
+
+- link: /web/assets/img/gallery/idisgpose15edit1.jpg
+  name: Idis
+  isBigImage: true
+  profile: https://x.com/idisxiv
+
+- link: /web/assets/img/gallery/idisgpose16edit1.jpg
+  name: Idis
+  isBigImage: true
+  profile: https://x.com/idisxiv/status/1838406531341234413
+
+- link: /web/assets/img/gallery/image (1).jpg
+  name: Idis
+  isBigImage: true
+  profile: https://x.com/idisxiv/
