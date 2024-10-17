@@ -277,3 +277,18 @@
   name: S’cylle
   isBigImage: true
   profile: https://www.instagram.com/scyllecirhe.ffxiv/
+
+- link: /web/assets/img/gallery/ffxiv_dx11 2024-10-14 19-50-20 Maya Adorable Gameplay.jpg
+  name: Catcraft
+  isBigImage: true
+  profile: https://x.com/catcraftxiv
+
+- link: /web/assets/img/gallery/https___x.com_yeuxbaelsar_status_1843244881806000379-img1.jpg
+  name: Yeux Baelsar
+  isBigImage:
+  profile: https://x.com/yeuxbaelsar/status/1843969671055196391
+
+- link: /web/assets/img/gallery/https___x.com_yeuxbaelsar_status_1843969671055196391-img3.jpg
+  name: Yeux Baelsar
+  isBigImage:
+  profile: https://x.com/yeuxbaelsar/status/1843244881806000379
