@@ -6,18 +6,51 @@
 - name: TGD
   link: https://www.glamourdresser.com/author/catcraft
   frontpage: true
+
+- name: Patreon
+  link: https://www.patreon.com/catcraftFFXIV
+  frontpage: true
+
+- name: Boosty
+  link: https://boosty.to/miaumori
+  frontpage: true
+
+- name: Shop
+  link: https://www.patreon.com/catcraftffxiv/shop
+  frontpage: true
+
+- name: Shop(no VAT)
+  link: https://hipolink.me/pomigrein/products
+  frontpage: true
+
+- name: Twitter
+  link: https://x.com/catcraftxiv
+  frontpage: true
+
+- name: Bsky
+  link: https://bsky.app/profile/catcraftxiv.bsky.social
+  frontpage: true
   
-xma_profile: https://www.xivmodarchive.com/user/111283
-tgd_profile: https://www.glamourdresser.com/author/catcraft
-patreon_profile: https://www.patreon.com/catcraftFFXIV
-patreon.shop_profile: https://www.patreon.com/catcraftffxiv/shop
-pillow.boosty_profile: https://boosty.to/miaumori
-evie.boosty_profile: https://boosty.to/evilieda
-hipolink_profile: https://hipolink.me/pomigrein
-hipolink.shop_profile: https://hipolink.me/pomigrein/products
-kofi_profile: https://ko-fi.com/catcraft
-website_profile: https://catcraftxiv.github.io/web/
-discord_profile: https://discord.gg/yPbUXazxQ3
-twitter_profile: https://x.com/catcraftxiv
-bsky_profile: https://bsky.app/profile/catcraftxiv.bsky.social
-mod.rules_profile: https://catcraftxiv.github.io/web/rules
+- name: Discord
+  link: https://discord.gg/yPbUXazxQ3
+  frontpage: true
+
+- name: Ko-fi
+  link: https://ko-fi.com/catcraft
+  frontpage:
+
+- name: Hipolink
+  link: https://hipolink.me/pomigrein
+  frontpage:
+
+- name: Mod Rules
+  link: https://catcraftxiv.github.io/web/rules
+  frontpage:
+
+- name: Website
+  link: https://catcraftxiv.github.io/web/
+  frontpage:
+
+- name: Evie boosty
+  link: https://boosty.to/evilieda
+  frontpage:
