@@ -8,6 +8,10 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 
 **All** of patreon rewards and shop items is custom made! Every port/mashup is **free**! There also a lot of free custom stuff too, im happy to see you use items made by us c:
 
+{% for profile_page in site.data.profiles %}
+- [({{ profile_page.name }}](({{ profile_page.link }})
+{% endfor %}
+
 - [XIV mod archive] — Free mods only
 - [The glamour dresser]
 - [Heliosphere] — Empty profile
