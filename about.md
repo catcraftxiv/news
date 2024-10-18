@@ -11,7 +11,8 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 {% for profile_page in site.data.profiles %}
 <li><a href="{{ profile_page.link }}">{{ profile_page.name }}</a>
 {% endfor %}
-
+<br>
+    
 Boosty (subsription) and Hipolink (shop) have same content as Patreon, but less fees for me and should be **no VAT** for you! But check it to be sure before payment!
 
 [See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules.markdown %})
