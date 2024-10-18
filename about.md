@@ -25,7 +25,7 @@ Boosty (subsription) and Hipolink (shop) have same content as Patreon, but less 
     text-align: unset;
 }
 
-.hr2 {
+.hr_dashed {
   border: 0;
   border-top: 1px dashed #CCC;
 }
