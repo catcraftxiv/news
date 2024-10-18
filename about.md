@@ -16,21 +16,6 @@ Boosty (subsription) and Hipolink (shop) have same content as Patreon, but less 
 
 [See mod rules here!]({{ site.baseurl }}{% link _posts/2024-05-20-mod-rules.markdown %})
 
-
-[XIV Mod Archive]: (https://www.xivmodarchive.com/user/111283)
-[The Glamour Dresser]: (https://www.glamourdresser.com/author/catcraft)
-[Heliosphere]: (https://heliosphere.app/user/y1dtqqh33n5911wd92kkkne6g8)
-[Patreon]: (https://www.patreon.com/catcraftFFXIV)
-[Twitter]: (https://twitter.com/catcraftxiv)
-[bsky]: (https://twitter.com/catcraftxiv)
-[pillow boosty]: (https://boosty.to/miaumori)
-[pillow hipolink]: (https://hipolink.me/pomigrein)
-[Evie boosty]: (https://boosty.to/evilieda)
-[Evie hipolink]: (https://hipolink.me/evilieda)
-[Ko-fi]: (https://ko-fi.com/catcraft)
-[Website]: (https://catcraftxiv.github.io/web/)
-[Discord]: (https://discord.gg/yPbUXazxQ3)
-
 <style>
 .error {
     text-align: unset;
