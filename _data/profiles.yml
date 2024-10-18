@@ -1,4 +1,12 @@
 # List of profiles
+- name: XMA
+  link: https://www.xivmodarchive.com/user/111283
+  frontpage: true
+
+- name: TGD
+  link: https://www.glamourdresser.com/author/catcraft
+  frontpage: true
+  
 xma_profile: https://www.xivmodarchive.com/user/111283
 tgd_profile: https://www.glamourdresser.com/author/catcraft
 patreon_profile: https://www.patreon.com/catcraftFFXIV
