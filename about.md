@@ -13,6 +13,7 @@ Catcraft is consist of **pillow** and **Evie** ^-^ If you need something, please
 - [Heliosphere] — Empty profile
 - [Patreon] — Subscription and shop
 - [Twitter]
+- [bsky]
 - [pillow boosty] — Subscription
 - [pillow hipolink] — Shop
 - [Evie boosty] — 2D
@@ -31,6 +32,7 @@ Boosty (subsription) and Hipolink (shop) have same content as Patreon, but less 
 [Heliosphere]: (https://heliosphere.app/user/y1dtqqh33n5911wd92kkkne6g8)
 [Patreon]: (https://www.patreon.com/catcraftFFXIV)
 [Twitter]: (https://twitter.com/catcraftxiv)
+[bsky]: (https://twitter.com/catcraftxiv)
 [pillow boosty]: (https://boosty.to/miaumori)
 [pillow hipolink]: (https://hipolink.me/pomigrein)
 [Evie boosty]: (https://boosty.to/evilieda)
