@@ -335,7 +335,7 @@
 
 - link: /web/assets/img/gallery/bafkreieba6hbmv5vqrxsivjlohehafh2gkzk36p4xvj5ucib2eochwe6gy.jpg
   name: Nyx
-  isBigImage: true
+  isBigImage:
   profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h
 
 - link: /web/assets/img/gallery/bafkreignirb3ppkdzaec4pzqcqcqld53lkrtrlmsrb4lgrkxafycps3fye.jpg
