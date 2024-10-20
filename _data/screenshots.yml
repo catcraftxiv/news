@@ -158,11 +158,6 @@
   isBigImage: 
   profile: https://x.com/catcraftxiv/status/1815844745857622374
 
-- link: /web/assets/img/gallery/w-Final-Fantasy-XIV-A-Realm-Reborn-Super-Resolution-2024-07-24-03-48-24-74_c.jpg
-  name: Cynthea
-  isBigImage: true
-  profile: https://x.com/CyntheaXIV
-
 - link: /web/assets/img/gallery/GTP4He8bcAA6yaM-orig_c.jpg
   name: Valfreyja Frostwyrm
   isBigImage: true
@@ -308,7 +303,7 @@
   isBigImage: true
   profile: https://x.com/PhotosmithSaki/status/1847384156881506728
 
-- link: /web/assets/img/gallery/GaAq7XxaQAAcEvj.jpg
+- link: /web/assets/img/gallery/bafkreieba6hbmv5vqrxsivjlohehafh2gkzk36p4xvj5ucib2eochwe6gy.jpg
   name: Nyx
   isBigImage:
   profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h
@@ -342,3 +337,33 @@
   name: Nyx
   isBigImage: true
   profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l66iu3rbjw2a
+
+- link: /web/assets/img/gallery/GaAq7XxaQAAcEvj.jpg
+  name: Nyx
+  isBigImage: true
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h
+
+- link: /web/assets/img/gallery/bafkreidc54izd7efqgeuk4tvawsxqlfdhmjpripshpjyc53o52vxqeh364.jpg
+  name: Nyx
+  isBigImage: true
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6pkkfw5qm2r
+
+- link: /web/assets/img/gallery/bafkreigcpu6axid6fxdbmarqy77zgkfeuz57jyed5exff6yhc3bio74v3y.jpg
+  name: Nyx
+  isBigImage:
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6g7xa6f2s2u
+
+- link: /web/assets/img/gallery/bafkreiakenhtmp4g5jhk2opbu72c3rihcvuifljkd3vmd7ulu3wnq6zp4u.jpg
+  name: Nyx
+  isBigImage: true
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6cy54kma62s
+
+- link: /web/assets/img/gallery/bafkreibc3wefkeqyswbi6c4k47evabryk276yjpznaes5jsp64n42mtf6i.jpg
+  name: Nyx
+  isBigImage: true
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6artmwqkp2a
+
+- link: /web/assets/img/gallery/bafkreignirb3ppkdzaec4pzqcqcqld53lkrtrlmsrb4lgrkxafycps3fye.jpg
+  name: Nyx
+  isBigImage:
+  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6nu4nciuy2e
