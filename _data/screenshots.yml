@@ -158,11 +158,6 @@
   isBigImage: 
   profile: https://x.com/catcraftxiv/status/1815844745857622374
 
-- link: /web/assets/img/gallery/w-Final-Fantasy-XIV-A-Realm-Reborn-Super-Resolution-2024-07-24-03-48-24-74_c.jpg
-  name: Cynthea
-  isBigImage: true
-  profile: https://x.com/CyntheaXIV
-
 - link: /web/assets/img/gallery/GTP4He8bcAA6yaM-orig_c.jpg
   name: Valfreyja Frostwyrm
   isBigImage: true
@@ -347,11 +342,6 @@
   name: Nyx
   isBigImage: true
   profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6xowjah2f2h
-
-- link: /web/assets/img/gallery/bafkreiasxhlstkjw4wjm7fb6tjorgxm54wbc3q6ul6srb3z5fcvooiq5ni.jpg
-  name: Nyx
-  isBigImage: true
-  profile: https://bsky.app/profile/tsukuyomi.bsky.social/post/3l6rylq4tyk25
 
 - link: /web/assets/img/gallery/bafkreidc54izd7efqgeuk4tvawsxqlfdhmjpripshpjyc53o52vxqeh364.jpg
   name: Nyx
